@@ -38,4 +38,4 @@ jobs:
       - run:  |    
           pip install virtualenv
           virtualenv env
-          source env/bin/activate
+          source env/bin/activate 
